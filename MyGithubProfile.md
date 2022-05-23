@@ -1,5 +1,4 @@
 
- 
 <h2 align ="center" > Hi there👋, I am Rakesh Bhardwaj </h2>
 
 <h5 align = "center" >A Future Game Developer</h5> 
@@ -37,12 +36,10 @@
  
  <img src="https://img.icons8.com/nolan/344/unity.png"  width="50" height="50"/> <img src="https://img.icons8.com/nolan/344/blender-3d.png" width="50" height="50"/> <img src="https://img.icons8.com/nolan/344/android-studio--v3.png"  width="50" height="50"/>
 
- 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshbhardwaj-coder&layout=compact)](https://github.com/rakeshBhardwaj-coder/github-readme-stats)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RakeshBhardwaj-coder&show_icons=true&locale=en " height="400" width="500" />
+<center>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshbhardwaj-coder&layout=compact" width="300" height="200"/></center>
+<center>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RakeshBhardwaj-coder&show_icons=true&locale=en" width="300" height="200"/></center>
 
 </h3>
 <br>
