@@ -42,7 +42,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshbhardwaj-coder&layout=compact)](https://github.com/rakeshBhardwaj-coder/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RakeshBhardwaj-coder&show_icons=true&locale=en" alt="RakeshBhardwaj-coder" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RakeshBhardwaj-coder&show_icons=true&locale=en " height="400" width="500" />
 
 </h3>
 <br>
