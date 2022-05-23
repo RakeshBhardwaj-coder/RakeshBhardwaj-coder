@@ -1,8 +1,10 @@
- <!-- <img src=""> -->
+
  
-# Hi there👋, I am Rakesh Bhardwaj 
+<h2 align ="center" > Hi there👋, I am Rakesh Bhardwaj </h2>
 
 <h5 align = "center" >A Future Game Developer</h5> 
+
+# 
 
 <h3 align="center">"You can make an amazing game, but you can't make a success, Your players make the success."</h3></br>
 
