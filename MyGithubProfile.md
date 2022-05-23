@@ -36,10 +36,11 @@
  
  <img src="https://img.icons8.com/nolan/344/unity.png"  width="50" height="50"/> <img src="https://img.icons8.com/nolan/344/blender-3d.png" width="50" height="50"/> <img src="https://img.icons8.com/nolan/344/android-studio--v3.png"  width="50" height="50"/>
 
-<center>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshbhardwaj-coder&layout=compact" width="300" height="200"/></center>
-<center>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RakeshBhardwaj-coder&show_icons=true&locale=en" width="300" height="200"/></center>
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshbhardwaj-coder&layout=compact">
+</p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RakeshBhardwaj-coder&show_icons=true&locale=en" width="400" height="200"/></center>
 
 </h3>
 <br>
