@@ -1,5 +1,5 @@
 
-<h2 align ="center" > Hi there👋, I am Rakesh Bhardwaj </h2>
+<h2 align ="center" > Hello, My name is Rakesh Bhardwaj </h2>
 
 <h5 align = "center" >A Future Game Developer</h5> 
 
@@ -28,23 +28,25 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+# 
 
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
 
- <img src="https://img.icons8.com/nolan/344/java-coffee-cup-logo.png"  width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  <img src="https://img.icons8.com/color/344/c-sharp-logo-2.png"  width="40" height="40"/>  <img src="https://img.icons8.com/color/344/flutter.png"  width="40" height="40"/> 
- 
+
+<p align="center"></br>
+ <img src="https://img.icons8.com/nolan/344/java-coffee-cup-logo.png"  width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  <img src="https://img.icons8.com/color/344/c-sharp-logo-2.png"  width="40" height="40"/>  <img src="https://img.icons8.com/color/344/flutter.png"  width="40" height="40"/></br>
  <img src="https://img.icons8.com/nolan/344/unity.png"  width="50" height="50"/> <img src="https://img.icons8.com/nolan/344/blender-3d.png" width="50" height="50"/> <img src="https://img.icons8.com/nolan/344/android-studio--v3.png"  width="50" height="50"/>
 
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshbhardwaj-coder&layout=compact">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=RakeshBhardwaj-coder&show_icons=true&locale=en">
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RakeshBhardwaj-coder&show_icons=true&locale=en" width="400" height="200"/></center>
 
 </h3>
-<br>
+
+# 
+<h3 align="center">Total Visits</h3></br>
 <p align="center"> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/RakeshBhardwaj-coder/count.svg" />
 </p>
