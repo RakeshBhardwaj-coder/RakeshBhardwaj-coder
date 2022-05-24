@@ -1,8 +1,8 @@
 <html>
 
 <head>
-<!-- <style>
-   h4{
+<style>
+  h4{
     color:#00BFFF;
   }
   .connection{
@@ -20,8 +20,8 @@
   
   border-radius: 5px;
   background-color:black;
-} -->
-<!-- </style> --> 
+}
+</style>
 </head>
 <body>
 
