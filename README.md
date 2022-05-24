@@ -1,21 +1,32 @@
 
 <h2 align ="center" > Hello, My name is Rakesh Bhardwaj </h2>
 
+# 
 <h5 align = "center" >A Future Game Developer</h5> 
 
 # 
 
-<h3 align="center">"You can make an amazing game, but you can't make a success, Your players make the success."</h3></br>
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=RakeshBhardwaj-coder&theme=chartreuse-dark&show_icons=true&locale=en">
+   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshbhardwaj-coder&theme=chartreuse-dark&layout=compact" >
+</p>
 
-<h3 align="center">"Golden rule of level design - Finish your first level last."</h3></br>
 
-<h3 align="center">
-"Lets optimize for player experience rather than what we think will make more money."</h3></br>
 
-<h3 align = "center">“There is no failure. Only feedback.”</h3>
 
-#
-### Thank you for being an important part of my story.
+# 
+
+<h3 align="center">Languages and Tools:</h3>
+
+
+<p align="center"></br>
+ <img src="https://img.icons8.com/nolan/344/java-coffee-cup-logo.png"  width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  <img src="https://img.icons8.com/color/344/c-sharp-logo-2.png"  width="40" height="40"/>  <img src="https://img.icons8.com/color/344/flutter.png"  width="40" height="40"/></br></br>
+ <img src="https://img.icons8.com/nolan/344/unity.png"  width="50" height="50"/> <img src="https://img.icons8.com/nolan/344/blender-3d.png" width="50" height="50"/> <img src="https://img.icons8.com/nolan/344/android-studio--v3.png"  width="50" height="50"/>
+
+ # 
+<h4 align = "center"> Thank you for being an important part of my story.</h4>
+
+# 
 - 📝 My Github Account : [https://github.com/RakeshBhardwaj-coder](https://github.com/RakeshBhardwaj-coder)
 
 - 📝 My Portfolio : [https://www.RakeshBhardwajPortfolio.ga](https://www.RakeshBhardwajPortfolio.ga)
@@ -31,24 +42,69 @@
 
 
 
-# 
-
-<h3 align="center">Languages and Tools:</h3>
 
 
-<p align="center"></br>
- <img src="https://img.icons8.com/nolan/344/java-coffee-cup-logo.png"  width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  <img src="https://img.icons8.com/color/344/c-sharp-logo-2.png"  width="40" height="40"/>  <img src="https://img.icons8.com/color/344/flutter.png"  width="40" height="40"/></br></br>
- <img src="https://img.icons8.com/nolan/344/unity.png"  width="50" height="50"/> <img src="https://img.icons8.com/nolan/344/blender-3d.png" width="50" height="50"/> <img src="https://img.icons8.com/nolan/344/android-studio--v3.png"  width="50" height="50"/>
-
-<p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshbhardwaj-coder&theme=chartreuse-dark&layout=compact" ></br>
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=RakeshBhardwaj-coder&theme=chartreuse-dark&show_icons=true&locale=en">
-</p>
 
 
 </h3>
 
+#
+
+<h5 align = "center" >Motivational Quotes for the Game Developers</h5> 
+
+#
+
+
+<h3 align="center">"You can make an amazing game, but you can't make a success, Your players make the success."</h3></br>
+
+<h3 align="center">
+"You are Generating something doesn't exists, So you are the God of your game.</br>
+This is a great feeling and fun in a Game Development."</h3></br>
+
+<h3 align="center">
+"Lets optimize for player experience rather than what we think will make more money."</h3></br>
+
+<h3 align = "center">“There is no failure. Only feedback.”</h3>
+
+#
+
+<h5 align = "center" >Tips to become Game Developer Fast</h5> 
+
 # 
+
+
+
+
+<h3 align="center">
+"Alpha -> Beta -> Launch."</h3></br>
+<h3 align="center">
+"Focus on a High Pitch line."</h3></br>
+<h3 align="center">
+"Don't Reinnovent the Wheel."</h3></br>
+
+
+
+<h3 align="center">
+"Failing to Plan, is a planning to Fail."</h3></br>
+
+<h3 align="center">
+"GDD need to be make to create Fun in a Game."</h3></br>
+
+
+<h3 align="center">"Golden rule of level design - Finish your first level last."</h3></br>
+
+<h3 align="center">
+"Your Game is good looking is a good Game is not true."</h3></br>
+
+
+<h3 align="center">"Good Graphics is Doesn't matter, Matters is a good Game Play."</h3></br>
+
+
+<h3 align="center">"For Good FPS you should know about algorithm and DSA perfectly."</h3></br>
+
+# 
+
+
 <h3 align="center">Total Visits</h3></br>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/RakeshBhardwaj-coder/count.svg" />
