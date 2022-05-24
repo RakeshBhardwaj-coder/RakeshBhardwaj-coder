@@ -41,7 +41,7 @@
  <img src="https://img.icons8.com/nolan/344/unity.png"  width="50" height="50"/> <img src="https://img.icons8.com/nolan/344/blender-3d.png" width="50" height="50"/> <img src="https://img.icons8.com/nolan/344/android-studio--v3.png"  width="50" height="50"/>
 
 <p align="center">
-  <img width="460" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshbhardwaj-coder&theme=chartreuse-dark&layout=compact" ></br>
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshbhardwaj-coder&theme=chartreuse-dark&layout=compact" ></br>
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=RakeshBhardwaj-coder&theme=chartreuse-dark&show_icons=true&locale=en">
 </p>
 
