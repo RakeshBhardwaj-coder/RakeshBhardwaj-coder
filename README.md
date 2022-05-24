@@ -24,7 +24,10 @@
 
 -  📝 My Linkdin account : [https://www.linkedin.com/in/developer-rakesh-bhardwaj](https://www.linkedin.com/in/developer-rakesh-bhardwaj)
 
-- 📝 My GameDeveloper Commiunity : [https://discord.gg/9j3v492j](https://discord.gg/9j3v492j)
+- 📝 Itch.io Profile : [https://rakeshbhardwaj.itch.io](https://rakeshbhardwaj.itch.io)
+
+- 📝 Discord GameDeveloper Commiunity : [https://discord.gg/9j3v492j](https://discord.gg/9j3v492j)
+
 
 
 
@@ -38,8 +41,8 @@
  <img src="https://img.icons8.com/nolan/344/unity.png"  width="50" height="50"/> <img src="https://img.icons8.com/nolan/344/blender-3d.png" width="50" height="50"/> <img src="https://img.icons8.com/nolan/344/android-studio--v3.png"  width="50" height="50"/>
 
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshbhardwaj-coder&layout=compact"></br>
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=RakeshBhardwaj-coder&show_icons=true&locale=en">
+  <img width="460" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshbhardwaj-coder&theme=chartreuse-dark&layout=compact" ></br>
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=RakeshBhardwaj-coder&theme=chartreuse-dark&show_icons=true&locale=en">
 </p>
 
 
@@ -49,10 +52,29 @@
 <h3 align="center">Total Visits</h3></br>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/RakeshBhardwaj-coder/count.svg" />
-</p>
+</p></br>
 
+# 
+
+
+<h4 align = "center">Connect yourself to me by one click</h4></br>
 <p align="center">
-<a href="https://youtu.be/bqPn6VXZpWg">
-<img src="https://img.icons8.com/nolan/344/unity.png"  width="50" height="50" target="_blank" href="https://youtu.be/bqPn6VXZpWg"/>
+<a href="https://github.com/RakeshBhardwaj-coder" target="_blank">
+<img src="https://img.icons8.com/color-glass/344/github.png"  width="40" height="40"/></a>
+ <a href="https://img.icons8.com/color/344/discord--v2.png" target="_blank">
+<img src="https://img.icons8.com/color/344/discord--v2.png"  width="40" height="40"/>
+</a> 
+<a href="https://rakeshbhardwaj.itch.io" target="_blank">
+<img src="https://img.icons8.com/dusk/344/itch-io.png"  width="40" height="40"/>
+</a> 
+<a href="https://youtu.be/bqPn6VXZpWg" target="_blank">
+<img src="https://img.icons8.com/color/344/youtube-play.png"  width="40" height="40"/>
 </a>
+<a href="https://www.RakeshBhardwajPortfolio.ga" target="_blank">
+<img src="https://img.icons8.com/fluency/344/domain.png"  width="40" height="40"/>
+</a>
+<a href="" target="_blank">
+<img src="https://img.icons8.com/color/344/linkedin.png"  width="40" height="40"/>
+</a> 
+
  </p>
