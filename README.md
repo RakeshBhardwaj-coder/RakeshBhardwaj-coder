@@ -1,27 +1,7 @@
 <html>
 
 <head>
-<!-- <style>
-   h4{
-    color:#00BFFF;
-  }
-  .connection{
-  border: 1px solid green;
-  border-radius: 0px 50px 0px 50px;
-  background-color:black;
-}
-  .languagesAndTools{
-  border: 2px solid gray;
-  border-radius: 0px 50px 0px 50px;
-  background-color:black;
-}
-  #visitNum{
-  border: 20px solid black;
-  
-  border-radius: 5px;
-  background-color:black;
-} -->
-<!-- </style> --> 
+
 </head>
 <body>
 
@@ -162,3 +142,26 @@ This is a great feeling and fun in a Game Development."</h3></br>
 
  </p></div>
 </body></html>
+
+
+<!-- <style>
+   h4{
+    color:#00BFFF;
+  }
+  .connection{
+  border: 1px solid green;
+  border-radius: 0px 50px 0px 50px;
+  background-color:black;
+}
+  .languagesAndTools{
+  border: 2px solid gray;
+  border-radius: 0px 50px 0px 50px;
+  background-color:black;
+}
+  #visitNum{
+  border: 20px solid black;
+  
+  border-radius: 5px;
+  background-color:black;
+} -->
+<!-- </style> --> 
