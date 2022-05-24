@@ -53,6 +53,6 @@
 
 <p align="center">
 <a href="https://youtu.be/bqPn6VXZpWg">
-<img src="https://img.icons8.com/nolan/344/unity.png"  width="50" height="50" alt="_blank" href="https://youtu.be/bqPn6VXZpWg"/>
+<img src="https://img.icons8.com/nolan/344/unity.png"  width="50" height="50" target="_blank" href="https://youtu.be/bqPn6VXZpWg"/>
 </a>
  </p>
