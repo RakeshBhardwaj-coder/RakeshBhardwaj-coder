@@ -144,14 +144,14 @@ This is a great feeling and fun in a Game Development."</h3></br>
 
 <p align="center">
 
-<img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshbhardwaj-coder&repo=2dUnityGameProject&theme=chartreuse-dark">
+<img width="300" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshbhardwaj-coder&repo=2dUnityGameProject&theme=chartreuse-dark">
 <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshbhardwaj-coder&repo=WhereIsMyBus&theme=chartreuse-dark">
- <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshbhardwaj-coder&repo=healingapp&theme=chartreuse-dark">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshbhardwaj-coder&repo=Book-Record-System_major_project
+<img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshbhardwaj-coder&repo=healingapp&theme=chartreuse-dark">
+<img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshbhardwaj-coder&repo=Book-Record-System_major_project
 &theme=chartreuse-dark">
 <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshbhardwaj-coder&repo=RakeshBhardwaj-coder
 &theme=chartreuse-dark">
- <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshbhardwaj-coder&repo=RakeshBhardwaj.github.io
+<img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshbhardwaj-coder&repo=RakeshBhardwaj.github.io
 &theme=chartreuse-dark">
 
 
