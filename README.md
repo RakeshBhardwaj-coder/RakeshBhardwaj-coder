@@ -1,29 +1,32 @@
-
-<h2 align ="center" > Hello, My name is Rakesh Bhardwaj </h2>
+<!-- Name Starter -->
+<h3 align="center">
+        <samp>&gt; Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave gif" width="30px"></br>
+          &gt; I am  <span> <img src="RakeshGif.png " width = "200"></span>
+        </samp>
+</h3><h5 align = "center" >A Future Game Developer</h5> 
 
 # 
-<h5 align = "center" >A Future Game Developer</h5> 
 
-# 
+<!-- Github Stats  -->
 
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=RakeshBhardwaj-coder&theme=chartreuse-dark&show_icons=true&locale=en">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=RakeshBhardwaj-coder&theme=chartreuse-dark&show_icons=true&locale=en"></br>
    <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshbhardwaj-coder&theme=chartreuse-dark&layout=compact" >
 </p>
 
-
-
-
 # 
 
+<!-- Skills  -->
+
 <h3 align="center">Languages and Tools:</h3>
-
-
 <p align="center"></br>
  <img src="https://img.icons8.com/nolan/344/java-coffee-cup-logo.png"  width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  <img src="https://img.icons8.com/color/344/c-sharp-logo-2.png"  width="40" height="40"/>  <img src="https://img.icons8.com/color/344/flutter.png"  width="40" height="40"/></br></br>
  <img src="https://img.icons8.com/nolan/344/unity.png"  width="50" height="50"/> <img src="https://img.icons8.com/nolan/344/blender-3d.png" width="50" height="50"/> <img src="https://img.icons8.com/nolan/344/android-studio--v3.png"  width="50" height="50"/>
 
  # 
+ 
+<!--  All Social Media Links -->
+
 <h4 align = "center"> Thank you for being an important part of my story.</h4>
 
 # 
@@ -39,16 +42,8 @@
 
 - 📝 Discord GameDeveloper Commiunity : [https://discord.gg/9j3v492j](https://discord.gg/9j3v492j)
 
-
-
-
-
-
-
-
-</h3>
-
 #
+<!-- Motivational Quotes -->
 
 <h5 align = "center" >Motivational Quotes for the Game Developers</h5> 
 
@@ -68,21 +63,20 @@ This is a great feeling and fun in a Game Development."</h3></br>
 
 #
 
+<!-- Tips for Become Good Game Developer -->
+
 <h5 align = "center" >Tips to become Game Developer Fast</h5> 
 
 # 
 
-
-
-
 <h3 align="center">
 "Alpha -> Beta -> Launch."</h3></br>
+
 <h3 align="center">
 "Focus on a High Pitch line."</h3></br>
+
 <h3 align="center">
 "Don't Reinnovent the Wheel."</h3></br>
-
-
 
 <h3 align="center">
 "Failing to Plan, is a planning to Fail."</h3></br>
@@ -90,20 +84,17 @@ This is a great feeling and fun in a Game Development."</h3></br>
 <h3 align="center">
 "GDD need to be make to create Fun in a Game."</h3></br>
 
-
 <h3 align="center">"Golden rule of level design - Finish your first level last."</h3></br>
 
 <h3 align="center">
 "Your Game is good looking is a good Game is not true."</h3></br>
 
-
 <h3 align="center">"Good Graphics is Doesn't matter, Matters is a good Game Play."</h3></br>
-
 
 <h3 align="center">"For Good FPS you should know about algorithm and DSA perfectly."</h3></br>
 
 # 
-
+<!-- Visit Counts -->
 
 <h3 align="center">Total Visits</h3></br>
 <p align="center"> 
@@ -111,7 +102,7 @@ This is a great feeling and fun in a Game Development."</h3></br>
 </p></br>
 
 # 
-
+<!-- Social Media Icon to Connect Fast -->
 
 <h4 align = "center">Connect yourself to me by one click</h4></br>
 <p align="center">
@@ -137,10 +128,11 @@ This is a great feeling and fun in a Game Development."</h3></br>
 
 #
 
+<!-- Project Repositories Cards -->
+
 <h4 align = "center">My Project Repositories</h4>
 
 # 
-
 
 <p align="center">
  <a href="https://github.com/RakeshBhardwaj-coder/2dUnityGameProject" target="_blank">
@@ -155,7 +147,6 @@ This is a great feeling and fun in a Game Development."</h3></br>
 <img width="250" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshbhardwaj-coder&repo=RakeshBhardwaj-coder&theme=chartreuse-dark"></a>
  <a href="https://github.com/RakeshBhardwaj-coder/RakeshBhardwaj.github.io" target="_blank">
 <img width="250" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshbhardwaj-coder&repo=RakeshBhardwaj.github.io&theme=chartreuse-dark"></a>
-
 
 </p>
 
