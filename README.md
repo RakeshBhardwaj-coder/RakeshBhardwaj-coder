@@ -1,6 +1,6 @@
 <!-- Name Starter -->
 <h3 align="center">
-        <samp>&gt; Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave gif" width="30px"></br>
+        <samp>&gt; Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave gif" width="30px"></br></br>
           &gt; I am  <span> <img src="RakeshGif.png " width = "200"></span>
         </samp>
 </h3><h5 align = "center" >A Future Game Developer</h5> 
