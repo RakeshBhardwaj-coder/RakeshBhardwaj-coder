@@ -1,7 +1,7 @@
 <!-- Name Starter -->
 <h3 align="center">
         <samp>&gt; Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave gif" width="30px"></br>
-          &gt; I am  <b>Rakesh Bhardwaj</b>
+         <img src= "RakeshGif2.png"/>
         </samp>
 </h3><h5 align = "center" >A Future Game Developer</h5> 
 
