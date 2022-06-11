@@ -76,6 +76,9 @@ This is a great feeling and fun in a Game Development."</h3></br>
 "Focus on a High Pitch line."</h3></br>
 
 <h3 align="center">
+"Keep sharping your blade."</h3></br>
+
+<h3 align="center">
 "Don't Reinnovent the Wheel."</h3></br>
 
 <h3 align="center">
