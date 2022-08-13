@@ -138,7 +138,8 @@ This is a great feeling and fun in a Game Development."</h3></br>
 # 
 
 <p align="center">
- <a href="https://github.com/RakeshBhardwaj-coder/2dUnityGameProject" target="_blank">
+ <a href="https://github.com/RakeshBhardwaj-coder/Skating-Guy" target="_blank">
+<img width="250" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshbhardwaj-coder&repo=Skating-Guy&theme=chartreuse-dark"></a> <a href="https://github.com/RakeshBhardwaj-coder/2dUnityGameProject" target="_blank">
 <img width="250" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshbhardwaj-coder&repo=2dUnityGameProject&theme=chartreuse-dark"></a>
  <a href="https://github.com/RakeshBhardwaj-coder/healingapp" target="_blank">
 <img width="250" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshbhardwaj-coder&repo=healingapp&theme=chartreuse-dark"></a>
