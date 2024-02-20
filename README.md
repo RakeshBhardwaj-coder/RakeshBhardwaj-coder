@@ -124,7 +124,7 @@ This is a great feeling and fun in a Game Development."</h3></br>
 <img src="https://img.icons8.com/fluency/344/domain.png"  width="40" height="40"/>
 </a>
 <a href="" target="_blank">
-<!-- <img src="https://img.icons8.com/color/344/linkedin.png"  width="40" height="40"/> -->
+<img src="https://img.icons8.com/color/344/linkedin.png"  width="40" height="40"/>
 </a> 
 
  </p>
@@ -148,8 +148,8 @@ This is a great feeling and fun in a Game Development."</h3></br>
 <img width="250" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshbhardwaj-coder&repo=Book-Record-System_major_project&theme=chartreuse-dark"></a>
  <a href="https://github.com/RakeshBhardwaj-coder/RakeshBhardwaj-coder" target="_blank">
 <img width="250" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshbhardwaj-coder&repo=RakeshBhardwaj-coder&theme=chartreuse-dark"></a>
- <a href="https://github.com/RakeshBhardwaj-coder/RakeshBhardwaj.github.io" target="_blank">
-<img width="250" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshbhardwaj-coder&repo=RakeshBhardwaj.github.io&theme=chartreuse-dark"></a>
+<!--  <a href="https://github.com/RakeshBhardwaj-coder/RakeshBhardwaj.github.io" target="_blank">
+<img width="250" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshbhardwaj-coder&repo=RakeshBhardwaj.github.io&theme=chartreuse-dark"></a> -->
 
 </p>
 
