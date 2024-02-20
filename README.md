@@ -124,7 +124,7 @@ This is a great feeling and fun in a Game Development."</h3></br>
 <img src="https://img.icons8.com/fluency/344/domain.png"  width="40" height="40"/>
 </a>
 <a href="" target="_blank">
-<img src="https://img.icons8.com/color/344/linkedin.png"  width="40" height="40"/>
+<!-- <img src="https://img.icons8.com/color/344/linkedin.png"  width="40" height="40"/> -->
 </a> 
 
  </p>
